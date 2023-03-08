@@ -1,6 +1,6 @@
 # Day1 - Addition of two numbers
 > Write a C program to perform addition of 2 integer numbers.
-### [Code_day1.c](https://github.com/sanjaysanju618/100-Days-of-Code/blob/main/day001.c)
+### [Code_day1.c] (https://github.com/googolgokil/100-Days-of-Code/blob/main/day1.c)
 
 # Day2 - Area and Circumference of a Circle
 > Write a C program to calculate Area and Circumference of a Circle
