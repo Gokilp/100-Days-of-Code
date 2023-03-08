@@ -4,7 +4,7 @@
 
 # Day2 - Area and Circumference of a Circle
 > Write a C program to calculate Area and Circumference of a Circle
-### [Code_day2.c](https://github.com/sanjaysanju618/100-Days-of-Code/blob/main/day002.c)
+### [Code_day2.c](https://github.com/googolgokil/100-Days-of-Code/blob/main/day2.c)
 
 # Day3 - Multiplication and Division
 > Write a C program to perform Multiplication and Division of Fractional numbers
